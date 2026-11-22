@@ -13,5 +13,8 @@ https://em-keejp.github.io/-Game/MK%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%93%E3%82%8D
 
 ## 圧縮にあたって
 
-現状はPixelNest様(Scratchアカウント)の作成したsb3圧縮ツール「SB3 Full Compressor」を用いて圧縮をしようと思っています。
+現状はPixelNest256様
+(https://github.com/PixelNest256)
+の作成したsb3圧縮ツール「SB3 Full Compressor」を用いて圧縮をしようと思っています。
+
 https://pixelnest256.github.io/sb3-tools/full/ja/
